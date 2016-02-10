@@ -1,11 +1,11 @@
 [Credentials]
 ; The bot needs its own account to run on (not yours)
-Username = my@email
-Password = your_password
+Username = a515723@trbvn.com
+Password = tree123456
 
 [Permissions]
 ; This need to be your id, not the bot's id.  The bot does not own the bot.  You do.
-OwnerID = 000000000000000000
+OwnerID = 1051055779182333952
 
 [Chat]
 ; Change this if you don't want commands to trigger another bot
@@ -29,10 +29,10 @@ SkipRatio = 0.5
 SaveVideos = yes
 
 ; Mentions the user who queued a song when the song plays
-NowPlayingMentions = no
+NowPlayingMentions = yes
 
 ; On start up, if the owner is in a voice channel, join that channel
-AutoSummon = yes
+AutoSummon = no
 
 ; Play random songs when nothing is queued
 UseAutoPlaylist = yes

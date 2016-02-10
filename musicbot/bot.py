@@ -275,7 +275,6 @@ class MusicBot(discord.Client):
 
         helpmsg += ", ".join(commands)
         helpmsg += "```"
-        helpmsg += "https://github.com/SexualRhinoceros/MusicBot/wiki/Commands-list"
 
         return Response(helpmsg, reply=True, delete_after=60)
 
